@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.star-container {
+  margin: 15px;
+}
+
+.title {
+  padding: 12px;
+}
+
+.title h2 {
+  text-align: center;
+}
+
+.star-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+.on {
+  background-color: yellow;
+}
+
+.off {
+  background-color: white;
+}
