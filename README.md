@@ -1,8 +1,11 @@
-# React + Vite
+Star Rating Component
+This is a simple, interactive star rating component built using React. The component allows users to:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+. Hover over the stars to highlight them dynamically.
+. Click on a star to set a permanent rating highlighting the corresponding stars.
+. Reset the stars to their original state when hovering out, unless a rating has been selected.
 
-Currently, two official plugins are available:
+Key features include hover effects, clickable ratings, and dynamic color changes using state management in React. Ideal for use in rating systems for products, reviews, or any feature requiring user feedback.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![image](https://github.com/user-attachments/assets/512f00e1-9879-4934-b6d0-2f89d4aed273)
