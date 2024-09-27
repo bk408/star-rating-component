@@ -1,4 +1,5 @@
-Star Rating Component
+# Star Rating Component
+
 This is a simple, interactive star rating component built using React. The component allows users to:
 
 . Hover over the stars to highlight them dynamically.
